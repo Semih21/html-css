@@ -1,0 +1,299 @@
+body{
+    margin:auto;
+    width:100%;
+    background:linear-gradient(to bottom, #E6F2F7 0%, #E6F2F7 60%, white 90%);
+    height:100%;
+    
+}
+.header{
+    width:100%;
+    height:52px;
+    background-color:#F7A100;}
+    position:relative;
+    
+
+.header1{
+    width:70%;
+    height:52px ;
+    background-color:#F7A100;
+    box-sizing:border-box;
+    text-align: center;
+    position: relative;
+}
+.logo{
+    position: absolute;
+    left:15%;
+    top:10px;
+}
+.header1 ul{
+    background-color:#F7A100;
+    color:white;
+    list-style-type:none;
+    text-align:right;
+    position: absolute;
+    right:15%;
+    
+}
+.header1 li{
+    display:inline-block;
+    font-size: 18px;
+    
+    
+    
+}
+.header1 a{
+    color:white;
+    text-decoration:none;
+
+    
+
+}
+.main-container{
+    width:70%;
+    margin:0 15%;
+    position: relative;
+    box-sizing:border-box;
+}
+
+.search-banner{
+    background-image: url(https://assets.fstatic.nl/master_1424/assets/components/search-banner/images/doorzon-silhouet.svg);
+    background-size:auto 100%;
+    background-position:center top;
+
+    width:100%;
+    height:232px;
+}
+.search-banner-left{
+    background-image:url(https://assets.fstatic.nl/master_1424/assets/components/search-banner/images/doorzon-links.svg);
+    width:157.125px;
+    height:232px;
+    float:left;
+    
+}
+.search-banner-right{
+    background-image:url(https://assets.fstatic.nl/master_1424/assets/components/search-banner/images/doorzon-rechts.svg);
+    width:349.219px;
+    height:232px;
+    float:right;
+    
+}
+.search-banner p{
+    color:#53241B;
+    font-weight: normal;
+    font-size:36px;
+    line-height: 44px;
+    
+}
+.container1{
+   
+    
+}
+
+.search-block__navigation{
+    color:white;
+    list-style-type:none;
+    text-align:left;
+    width:100%;
+    height:193px;
+    background-color:#F7A100;
+}
+.search-block__navigation li{
+    display:inline-block;
+    padding-left: 15px;
+    padding-top:25px;}
+    
+ .search-block__navigation a{
+     color:white;
+     text-decoration: none;
+ }
+ .buttons{
+     margin-top:60px;
+     margin-left:10px;
+ }
+.firstbutton{
+    width:380px;
+    height: 44px;
+    float:left;
+
+}
+.secondbutton{
+    width:91px;
+    height: 44px;
+    float:left;
+    margin-left:1px;
+    background-color:
+
+}
+.thirdbutton{
+    width:178px;
+    height: 44px;
+    float:left;
+    margin-left:10px;
+
+}
+.fourthbutton{
+    width:188px;
+    height: 44px;
+    float:left;
+    margin-left:5px;
+
+}
+.fifthbutton{
+    width:96px;
+    height: 44px;
+    float:left;
+    margin-left:5px;
+    background-color:#0071B3;
+    
+}
+.section2,.section3,.section4{
+float:left;
+margin-left:8px;
+margin-right:8px;
+}
+
+.section5{
+    background-image:url(https://assets.fstatic.nl/master_1428/assets/components/inspiration-banner/images/20171020-huizen-met-een-naam-min.png);
+    width:648px;
+    height:262px;
+    float:left;
+   
+}
+.section6{
+    width:300px;
+    height:250px;
+    float: left;
+    background-image: url('http://www.ikea.com/ms/nl_NL/media/img/textiel/Vloerkleden-offer-520x300.jpg');
+    margin-left:8px;
+    margin-top:12px;
+    
+   
+}
+.fundaheader h2{
+    clear: both;
+    padding-top:20px;
+}
+.sectionc{
+    margin:0 auto;
+    width:100%;
+}
+.section7{
+    background-image:url(https://content.funda.nl/media/123915/header_2016x658_gamma-herfstklaar-1.jpg);
+    width:648px;
+    height:348px;
+    float: left;
+    padding:8px;
+    color:white;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.section7 p{
+    padding-top:150px;
+}
+
+.section8{
+    margin-top:8px;
+    float:left;
+}
+.section8 li{
+    list-style: none;
+    padding:8px 0;
+    
+}
+.section8 a{
+    color:#0071B3;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    font-family:sans-serif;
+    
+}
+.section9{
+    width:648px;
+    height:232px;
+    clear: both;
+    background-color:#0071B3;
+    margin-bottom: 20px;
+    float: left;
+  
+}
+.home-banner img{
+   position: relative;
+    left:200px;
+
+}
+.home-banner p{
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 24px;
+    color:#fff;
+    text-align: center;
+}
+
+
+.homebanner .checkoutthisoffer{
+    position: relative;
+    text-decoration: none;
+    font-weight: 400px;
+    font-family: sans-serif;
+    font-size: 16px;
+    color:white;
+    background-color:#0071B3;
+    border:1px solid white;
+   
+}
+.section10{
+    width:312px;
+    height: 232px;
+    background-color: yellow;
+    float: left;
+    margin-left:24px;
+    
+}
+.section10 img{
+    padding-left:40%;
+}
+.section10 p{
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 24px;
+    color:#333;
+    text-align: center;
+}
+.readhow ,.checkout {
+    margin-left:40%;
+    border:1px solid white;
+    
+}
+.readhow a,.checkout a{
+    text-decoration: none;
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 24px;
+    color:#333;
+    text-align: center;
+    
+    
+}
+.footer-container{
+    width:1283px;
+    height:329px;
+    float: left;
+    background-color: grey;
+   
+}
+.row{
+    width:984px;
+    height:272px;
+    
+    float: left;
+    margin-left:145px;
+    
+}
+.footy{
+    width:20%;
+    float:left;
+    font:bold;
+    
+}
+
